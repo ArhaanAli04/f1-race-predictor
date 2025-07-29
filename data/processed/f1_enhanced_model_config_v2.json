@@ -1,0 +1,61 @@
+{
+  "model_info": {
+    "model_type": "Enhanced Multi-Season Tuned Random Forest",
+    "version": "2.0 - Multi-Season Enhanced",
+    "created_date": "2025-07-28T23:40:28.215023",
+    "training_approach": "Enhanced Multi-Season Temporal Validation",
+    "training_seasons": [
+      "2023",
+      "2024"
+    ],
+    "prediction_target": "2025 F1 Season",
+    "enhancement_type": "Multi-Season Learning"
+  },
+  "performance_metrics": {
+    "roc_auc_score": 0.8617886178861789,
+    "overall_accuracy": 0.96,
+    "cross_validation_score": 0.97,
+    "temporal_validation": true,
+    "multi_season_validation": true,
+    "live_prediction_capability": true
+  },
+  "enhanced_data_info": {
+    "total_training_records": 918,
+    "total_test_records": 259,
+    "total_features": 57,
+    "training_period": "2023-2024 F1 Seasons (Full)",
+    "test_period": "2025 F1 Season (Partial - Through July)",
+    "data_enhancement": "+28% more training data vs single-season",
+    "competitive_eras_captured": "Max dominance (2023) + Competition (2024)",
+    "live_season_coverage": "2025 through July 27"
+  },
+  "enhanced_feature_engineering": {
+    "total_features": 57,
+    "multi_season_features": true,
+    "cross_season_validation": true,
+    "feature_categories": {
+      "driver_historical": 3,
+      "recent_form": 8,
+      "constructor_features": 5,
+      "championship_context": 2,
+      "circuit_specific": 29,
+      "team_identity": 8
+    },
+    "consensus_features": 2,
+    "top_5_features": [
+      "constructor_win_rate",
+      "driver_win_rate",
+      "avg_points_last_5",
+      "avg_position_last_5",
+      "driver_points_per_race"
+    ]
+  },
+  "enhanced_model_insights": {
+    "multi_season_learning_success": true,
+    "competitive_evolution_captured": true,
+    "enhanced_winner_diversity": "Learns from both Max dominance and competitive balance",
+    "live_2025_prediction": "Ready for remaining season races",
+    "temporal_robustness": "Validated across different F1 competitive eras",
+    "production_advantages": "Enhanced accuracy, better generalization, live forecasting"
+  }
+}

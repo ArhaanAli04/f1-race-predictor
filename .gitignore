@@ -1,0 +1,131 @@
+# =============================================================================
+# F1 Race Prediction Project - .gitignore
+# =============================================================================
+
+# Virtual Environment
+f1_env/
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Large Data Files (Keep small samples, exclude large datasets)
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.parquet
+# Keep processed samples under 100MB, exclude large ones
+data/processed/master_f1_dataset.csv
+data/processed/complete_features_dataset.csv
+data/processed/modeling_dataset_final.csv
+
+# Model Files (Too large for GitHub - use Git LFS or exclude)
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+models/
+checkpoints/
+
+# Environment Variables & Config
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.ini
+secrets.json
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs & Debug Files
+*.log
+logs/
+debug.log
+error.log
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Output Files (Keep small ones, exclude large)
+outputs/
+results/
+plots/*.png
+plots/*.jpg
+figures/
+
+# API Keys & Credentials
+api_keys.txt
+credentials.json
+*.key
+*.pem
+
+# Large Analysis Files
+*.xlsx
+*.xls
+analysis_*.csv
+report_*.pdf
+
+# Make sure LICENSE is included
+!LICENSE
+
+
+# Cache Directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation Build
+docs/_build/
+site/

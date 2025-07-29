@@ -1,0 +1,1178 @@
+session_key,driver_number,position,points,grid_position,status,time,gap,full_name,name_acronym,team_name,country_code,season,circuit_short_name,country_name,date_start
+7953,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,16,19,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,55,4,12,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,14,3,15,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,44,5,10,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,18,6,8,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,31,18,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,27,15,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,4,17,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,77,8,4,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,24,16,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,22,11,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,23,10,1,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,2,12,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,20,13,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,81,20,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,21,14,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7953,10,9,2,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7779,11,1,25,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,14,3,15,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,18,20,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,31,8,4,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,44,5,10,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,81,15,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,10,9,2,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,27,12,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,16,7,6,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,20,10,1,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,77,18,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,22,11,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,21,14,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,4,17,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7779,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7787,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,63,18,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,44,2,18,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,14,3,15,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,55,12,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,18,4,12,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,16,20,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,27,7,6,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,31,14,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,22,10,1,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,4,6,8,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,20,17,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,21,15,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,24,9,2,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,77,11,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+7787,11,5,10,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+9070,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,11,1,25,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,14,4,12,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,4,9,2,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,22,10,1,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,18,7,6,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,81,11,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,63,8,4,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,23,12,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,77,18,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,24,19,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,20,13,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,10,14,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,21,20,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,31,15,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9070,27,17,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9078,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,14,3,15,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,20,10,1,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,10,8,4,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,16,7,6,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,31,9,2,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,77,13,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,23,14,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,27,15,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,24,16,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,21,18,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,4,17,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,22,11,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,18,12,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,81,19,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9078,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9094,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,14,2,18,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,31,3,15,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,55,8,4,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,16,6,8,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,10,7,6,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,22,15,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,4,9,2,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,81,10,1,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,21,12,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,23,14,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,18,20,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,77,11,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,2,18,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,20,19,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,27,17,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9094,11,16,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9102,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,4,17,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,44,2,18,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,18,6,8,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,31,8,4,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,27,15,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,81,13,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,10,10,1,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,11,4,12,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,24,9,2,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,21,14,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,22,12,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,77,19,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,20,18,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,23,16,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,16,11,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9102,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9110,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,14,2,18,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,44,3,15,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,63,19,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,27,15,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,31,8,4,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,4,13,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,81,11,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,23,7,6,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,11,6,8,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,20,17,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,77,10,1,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,10,12,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,18,9,2,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,21,18,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,22,14,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9110,24,16,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9118,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,55,4,12,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,4,5,10,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,18,10,1,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,14,6,8,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,27,20,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,10,9,2,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,63,8,4,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,31,12,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,81,17,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,11,3,15,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,22,18,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,24,14,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,2,13,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,20,19,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9118,21,15,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9126,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,16,9,2,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,55,10,1,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,44,3,15,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,23,8,4,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,10,18,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,27,13,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,31,20,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,2,11,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,11,6,8,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,22,16,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,21,17,0,,Finished,,,Nyck DE VRIES,DEV,AlphaTauri,NED,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,20,19,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9126,77,12,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9133,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,81,5,10,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,24,16,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,16,7,6,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,77,12,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,11,3,15,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,27,14,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,55,8,4,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,31,19,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,18,10,1,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,22,15,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,63,6,8,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,20,17,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9133,2,18,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9141,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,55,19,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,81,20,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,4,7,6,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,63,6,8,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,14,5,10,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,18,9,2,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,22,10,1,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,10,11,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,77,12,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,31,8,4,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,23,14,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,20,15,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,2,17,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,3,16,0,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9141,27,18,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9149,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,4,7,6,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,63,17,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,23,8,4,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,14,2,18,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,11,4,12,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,81,9,2,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,16,19,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,18,11,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,10,3,15,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,27,12,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,24,18,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,22,16,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,77,15,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,40,13,0,,Finished,,,Liam LAWSON,LAW,AlphaTauri,NZL,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9149,20,14,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9157,55,3,15,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,23,7,6,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,81,12,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,4,8,4,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,22,20,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,40,11,0,,Finished,,,Liam LAWSON,LAW,AlphaTauri,NZL,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,27,17,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,77,10,1,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,2,13,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,24,14,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,10,15,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,31,19,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,20,18,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9157,18,16,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9165,55,1,25,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,63,16,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,44,3,15,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,20,10,1,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,14,15,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,31,18,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,27,13,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,40,9,2,,Finished,,,Liam LAWSON,LAW,AlphaTauri,NZL,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,10,6,8,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,11,8,4,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,22,19,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,77,17,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,81,7,6,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,2,14,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9165,24,12,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9173,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,11,19,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,44,5,10,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,22,12,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,14,8,4,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,40,11,0,,Finished,,,Liam LAWSON,LAW,AlphaTauri,NZL,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,10,10,1,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,23,16,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,31,9,2,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,20,15,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,77,20,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,18,18,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,27,14,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9173,2,17,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9221,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,44,19,0,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,14,6,8,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,16,5,10,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,81,2,18,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,10,12,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,31,7,6,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,77,8,4,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,4,3,15,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,22,15,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,55,20,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,23,13,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,27,16,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,2,18,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,18,11,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,40,17,0,,Finished,,,Liam LAWSON,LAW,AlphaTauri,NZL,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,20,14,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,24,9,2,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9221,11,10,1,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9213,16,6,8,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,4,3,15,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,44,2,18,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,55,4,12,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,10,8,4,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,31,20,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,11,5,10,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,81,19,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,22,10,1,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,77,14,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,3,17,0,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,2,12,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,20,16,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,27,13,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,14,18,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9213,18,9,2,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9181,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,55,4,12,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,3,7,6,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,11,20,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,44,2,18,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,63,6,8,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,77,14,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,10,11,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,27,13,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,14,18,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,20,19,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,4,5,10,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,22,12,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9181,18,17,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9205,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,16,18,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,18,5,10,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,14,3,15,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,44,8,4,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,63,15,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,11,4,12,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,81,14,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,27,12,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,20,19,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,23,20,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,10,7,6,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,22,9,2,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,2,11,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9205,24,17,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9189,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,63,8,4,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,10,11,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,23,12,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,77,17,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,20,13,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,11,3,15,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,27,19,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,3,14,0,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,4,20,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,31,4,12,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,81,10,1,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,18,5,10,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9189,22,18,0,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9197,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,81,6,8,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,4,5,10,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,22,8,4,,Finished,,,Yuki TSUNODA,TSU,AlphaTauri,JPN,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,27,15,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,11,4,12,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,44,9,2,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,31,12,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,18,10,1,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,23,14,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,3,11,0,,Finished,,,Daniel RICCIARDO,RIC,AlphaTauri,AUS,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,55,18,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,20,20,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,77,19,0,,Finished,,,Valtteri BOTTAS,BOT,Alfa Romeo,FIN,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,24,17,0,,Finished,,,ZHOU Guanyu,ZHO,Alfa Romeo,CHN,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9197,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9472,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,55,3,15,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,4,6,8,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,27,16,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,22,14,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,18,10,1,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,23,15,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,20,12,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,77,19,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,24,11,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,31,17,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9472,10,18,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9480,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,14,5,10,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,4,8,4,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,63,6,8,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,44,9,2,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,22,14,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,18,19,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,38,7,6,,Finished,,,Oliver BEARMAN,BEA,Ferrari,GBR,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,20,12,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,3,16,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,27,10,1,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,77,17,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,31,13,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,2,15,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9480,24,18,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9488,1,19,0,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,55,1,25,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,4,3,15,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,11,5,10,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,63,17,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,22,8,4,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,18,7,6,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,14,6,8,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,44,18,0,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,77,14,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,20,10,1,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,31,16,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,27,9,2,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,3,12,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9488,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9496,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,11,2,18,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,4,5,10,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,55,3,15,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,14,6,8,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,44,9,2,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,22,10,1,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,3,19,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,77,14,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,23,20,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,31,15,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,18,12,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,10,16,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,20,13,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,2,17,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9496,24,18,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9673,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,11,3,15,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,63,6,8,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,27,10,1,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,77,20,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,18,15,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,3,18,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,31,11,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,23,12,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,24,14,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,20,16,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,44,9,2,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,22,19,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9673,2,17,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9507,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,55,4,12,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,11,5,10,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,81,13,0,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,63,8,4,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,22,7,6,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,18,17,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,10,12,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,20,18,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,24,14,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9507,3,15,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9515,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,22,10,1,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,11,8,4,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,31,14,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,18,9,2,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,23,20,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,10,16,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,77,18,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,20,12,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,2,17,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9515,14,19,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9523,16,1,25,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,81,2,18,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,55,3,15,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,4,4,12,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,1,6,8,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,22,8,4,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,10,10,1,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,31,17,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,3,12,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,2,15,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,11,18,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,77,13,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,24,16,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,27,19,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9523,20,20,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9531,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,81,5,10,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,3,8,4,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,14,6,8,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,22,14,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,18,7,6,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,23,17,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,16,19,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,55,16,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,20,12,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,10,9,2,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,11,18,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,77,13,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9531,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9539,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,44,3,15,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,16,5,10,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,10,9,2,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,81,7,6,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,14,12,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,11,8,4,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,20,17,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,22,19,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,3,15,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,2,20,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9539,23,18,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9550,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,4,20,0,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,55,3,15,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,16,11,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,81,2,18,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,11,7,6,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,27,6,8,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,31,12,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,3,9,2,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,20,8,4,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,10,10,1,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,22,14,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,14,18,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,23,15,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,18,13,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,2,19,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9550,24,17,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9558,63,19,0,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,44,1,25,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,4,3,15,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,27,6,8,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,18,7,6,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,14,8,4,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,16,14,0,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,2,11,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,22,10,1,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,24,18,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,77,15,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,20,12,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,31,16,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9558,11,17,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9566,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,44,3,15,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,18,10,1,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,3,12,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,22,9,2,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,27,13,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,23,14,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,2,17,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,20,15,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,11,7,6,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,63,8,4,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,24,19,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,31,18,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9566,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9574,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,11,8,4,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,44,2,18,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,4,6,8,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,55,7,6,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,31,10,1,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,23,13,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,10,14,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,3,11,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,18,12,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,27,19,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,20,15,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,2,18,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,24,20,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9574,22,17,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9582,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,11,6,8,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,14,10,1,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,18,13,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,10,9,2,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,55,5,10,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,22,17,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,3,12,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,44,8,4,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,31,15,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,77,19,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,24,20,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,2,16,0,,Finished,,,Logan SARGEANT,SAR,Williams,USA,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,23,14,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9582,20,18,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9590,4,3,15,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,81,2,18,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,16,1,25,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,55,4,12,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,44,5,10,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,1,6,8,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,11,8,4,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,27,17,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,20,10,1,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,10,15,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,31,14,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,22,20,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,18,19,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,43,12,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9590,24,18,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9598,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,55,18,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,11,17,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,14,6,8,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,43,8,4,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,23,7,6,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,50,10,1,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,GBR,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,22,20,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,27,11,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,18,19,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,3,13,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,4,4,12,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,24,14,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,10,12,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,44,9,2,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9598,31,15,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9606,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,27,9,2,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,14,8,4,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,22,12,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,16,5,10,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,55,7,6,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,23,20,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,43,11,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,11,10,1,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,20,19,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,31,13,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,3,18,0,,Finished,,,Daniel RICCIARDO,RIC,RB,AUS,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,10,17,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,77,16,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9606,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9617,4,4,12,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,1,3,15,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,55,2,18,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,16,1,25,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,81,5,10,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,10,12,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,14,13,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,20,11,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,11,7,6,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,22,14,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,27,8,4,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,31,18,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,18,15,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,23,16,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,43,10,1,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,77,17,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,44,20,0,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,24,19,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,30,9,2,,Finished,,,Liam LAWSON,LAW,RB,NZL,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9617,63,6,8,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9625,55,1,25,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,1,6,8,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,20,7,6,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,10,10,1,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,27,9,2,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,22,20,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,30,16,0,,Finished,,,Liam LAWSON,LAW,RB,NZL,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,14,18,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,18,11,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,77,14,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,43,12,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,11,17,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9625,31,13,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9636,4,6,8,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,22,7,6,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,31,2,18,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,30,9,2,,Finished,,,Liam LAWSON,LAW,RB,NZL,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,16,5,10,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,81,8,4,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,14,14,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,18,20,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,77,13,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,11,11,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,10,3,15,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,44,10,1,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,50,12,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,GBR,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,43,17,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,27,18,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,24,15,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9636,55,16,0,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9644,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,55,3,15,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,4,6,8,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,22,9,2,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,81,7,6,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,27,8,4,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,44,2,18,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,31,17,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,20,12,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,30,16,0,,Finished,,,Liam LAWSON,LAW,RB,NZL,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,11,10,1,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,18,15,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,77,18,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9644,43,14,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9655,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,4,10,1,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,44,12,0,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,55,6,8,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,11,17,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,20,9,2,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,10,5,10,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,24,8,4,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,77,11,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,22,13,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,18,18,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,23,15,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,30,14,0,,Finished,,,Liam LAWSON,LAW,RB,NZL,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,27,16,0,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,43,19,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9655,31,20,0,,Finished,,,Esteban OCON,OCO,Alpine,FRA,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9662,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,81,10,1,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,55,2,18,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,1,6,8,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,10,7,6,,Finished,,,Pierre GASLY,GAS,Alpine,FRA,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,27,8,4,,Finished,,,Nico HULKENBERG,HUL,Haas F1 Team,GER,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,ESP,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,77,18,0,,Finished,,,Valtteri BOTTAS,BOT,Kick Sauber,FIN,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,11,20,0,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,22,12,0,,Finished,,,Yuki TSUNODA,TSU,RB,JPN,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,30,17,0,,Finished,,,Liam LAWSON,LAW,RB,NZL,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,CAN,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,20,16,0,,Finished,,,Kevin MAGNUSSEN,MAG,Haas F1 Team,DEN,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,24,13,0,,Finished,,,ZHOU Guanyu,ZHO,Kick Sauber,CHN,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,61,15,0,,Finished,,,Jack DOOHAN,DOO,Alpine,AUS,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,23,11,0,,Finished,,,Alexander ALBON,ALB,Williams,THA,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9662,43,19,0,,Finished,,,Franco COLAPINTO,COL,Williams,ARG,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9693,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,81,9,2,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,22,12,0,,Finished,,,Yuki TSUNODA,TSU,Racing Bulls,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,23,4,12,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,16,8,4,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,44,10,1,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,10,11,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,55,18,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,6,19,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,14,17,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,18,6,8,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,7,20,0,,Finished,,,Jack DOOHAN,DOO,Alpine,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,5,16,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,12,5,10,,Finished,,,Andrea Kimi ANTONELLI,ANT,Mercedes,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,27,7,6,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,30,15,0,,Finished,,,Liam LAWSON,LAW,Red Bull Racing,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,31,13,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9693,87,14,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9998,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,1,4,12,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,16,5,10,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,6,14,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,12,8,4,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,22,19,0,,Finished,,,Yuki TSUNODA,TSU,Racing Bulls,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,31,7,6,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,27,18,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,14,20,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,18,12,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,55,13,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,10,11,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,87,10,1,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,7,16,0,,Finished,,,Jack DOOHAN,DOO,Alpine,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,5,17,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+9998,30,15,0,,Finished,,,Liam LAWSON,LAW,Red Bull Racing,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+10006,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,12,6,8,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,6,8,4,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,87,10,1,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,30,17,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,22,12,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,55,14,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,27,16,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,5,19,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,31,18,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,7,15,0,,Finished,,,Jack DOOHAN,DOO,Alpine,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10006,18,20,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10014,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,16,4,12,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,63,2,18,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,10,7,6,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,12,11,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,4,3,15,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,1,6,8,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,55,20,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,44,5,10,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,22,9,2,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,7,15,0,,Finished,,,Jack DOOHAN,DOO,Alpine,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,6,14,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,14,16,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,31,8,4,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,23,12,0,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,27,13,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,30,17,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,5,19,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,18,18,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10014,87,10,1,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10022,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,12,6,8,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,55,8,4,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,22,19,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,4,4,12,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,30,12,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,6,10,1,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,87,13,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,18,16,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,7,17,0,,Finished,,,Jack DOOHAN,DOO,Alpine,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,27,15,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,31,14,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10022,5,18,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10033,1,4,12,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,12,6,8,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,63,3,15,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,55,9,2,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,23,5,10,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,16,7,6,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,31,12,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,22,10,1,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,6,11,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,44,8,4,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,5,18,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,7,20,0,,Finished,,,Jack DOOHAN,DOO,Alpine,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,30,17,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,27,14,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,14,15,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,18,16,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,87,19,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+10033,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+9987,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,63,7,6,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,14,11,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,55,8,4,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,23,5,10,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,18,15,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,6,9,2,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,16,6,8,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,12,19,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,5,18,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,30,14,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,43,16,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,27,12,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,31,20,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,87,17,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9987,22,10,1,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9979,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,16,2,18,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,81,3,15,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,1,4,12,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,6,6,8,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,14,19,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,44,5,10,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,31,7,6,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,30,8,4,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,23,9,2,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,55,10,1,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,22,17,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,27,16,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,63,11,0,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,12,18,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,5,14,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,10,20,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,43,13,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,18,15,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9979,87,12,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9971,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,1,10,1,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,63,4,12,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,12,18,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,10,8,4,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,6,7,6,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,23,19,0,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,5,12,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,30,11,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,87,17,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,27,5,10,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,31,16,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,55,14,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,43,15,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9971,22,13,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9963,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,1,2,18,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,81,4,12,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,12,3,15,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,44,6,8,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,4,18,0,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,16,5,10,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,23,20,0,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,43,13,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,27,8,4,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,6,16,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,87,11,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,31,9,2,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,5,14,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,55,10,1,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,18,17,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,22,12,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,30,19,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9963,10,15,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9955,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,81,2,18,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,30,6,8,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,1,18,0,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,5,8,4,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,12,19,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,10,13,0,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,14,7,6,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,23,17,0,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,6,12,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,43,15,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,87,11,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,31,10,1,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,22,16,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,55,20,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9955,27,9,2,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9947,1,5,10,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,81,2,18,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,63,10,1,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,44,4,12,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,16,14,0,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,14,9,2,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,10,6,8,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,55,12,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,12,16,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,22,15,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,6,17,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,23,8,4,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,31,13,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,30,19,0,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,5,18,0,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,18,7,6,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,87,11,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,27,3,15,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9947,43,20,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9939,4,2,18,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,16,3,15,,Finished,,,Charles LECLERC,LEC,Ferrari,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,1,4,12,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,23,6,8,,Finished,,,Alexander ALBON,ALB,Williams,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,63,5,10,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,22,13,0,,Finished,,,Yuki TSUNODA,TSU,Red Bull Racing,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,6,20,0,,Finished,,,Isack HADJAR,HAD,Racing Bulls,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,30,8,4,,Finished,,,Liam LAWSON,LAW,Racing Bulls,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,5,9,2,,Finished,,,Gabriel BORTOLETO,BOR,Kick Sauber,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,31,15,0,,Finished,,,Esteban OCON,OCO,Haas F1 Team,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,87,11,0,,Finished,,,Oliver BEARMAN,BEA,Haas F1 Team,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,10,10,1,,Finished,,,Pierre GASLY,GAS,Alpine,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,27,12,0,,Finished,,,Nico HULKENBERG,HUL,Kick Sauber,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,43,19,0,,Finished,,,Franco COLAPINTO,COL,Alpine,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,18,14,0,,Finished,,,Lance STROLL,STR,Aston Martin,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,55,18,0,,Finished,,,Carlos SAINZ,SAI,Williams,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,44,7,6,,Finished,,,Lewis HAMILTON,HAM,Ferrari,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,12,16,0,,Finished,,,Kimi ANTONELLI,ANT,Mercedes,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
+9939,14,17,0,,Finished,,,Fernando ALONSO,ALO,Aston Martin,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00

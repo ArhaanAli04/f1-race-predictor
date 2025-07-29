@@ -1,0 +1,66 @@
+feature_name,feature_type,correlation_with_winner
+avg_position_last_5,performance,0.3548085122388059
+avg_points_last_5,performance,0.4539553916666639
+wins_last_5,performance,0.541833721002789
+podiums_last_5,performance,0.450171190189655
+points_last_5,performance,0.44432710533614445
+driver_win_rate,categorical,0.5753248185478644
+driver_podium_rate,performance,0.4877088073662246
+driver_points_per_race,performance,0.46945628378688964
+driver_consistency,performance,0.15893107575824883
+constructor_avg_position_last_5,performance,0.2945144962416023
+constructor_avg_points_last_5,performance,0.36415001584231155
+constructor_wins_last_5,performance,0.36817143972043237
+constructor_win_rate,categorical,0.4418820488798481
+constructor_strength,categorical,0.39480459078079727
+race_number,context,0.00017273746546335713
+season_progress,context,5.220648596460061e-05
+championship_position,context,0.3122621763179337
+championship_points,performance,0.3600707376566167
+points_from_leader,performance,0.22707198726108674
+circuit_experience,context,"circuit_experience    0.049182
+circuit_experience    0.049182
+circuit_experience    0.049182
+circuit_experience    0.049182
+dtype: float64"
+races_completed,context,0.05332423547155755
+is_red_bull_racing,categorical,0.33816665062864126
+is_mercedes,categorical,0.011862597965182955
+is_ferrari,categorical,0.001101448279032781
+is_haas_f1_team,categorical,0.07668282918626167
+is_alpine,categorical,0.07668282918626167
+is_mclaren,categorical,0.1307419107211899
+is_williams,categorical,0.07632118455537122
+is_aston_martin,categorical,0.07595850469499084
+circuit_experience,context,"circuit_experience    0.049182
+circuit_experience    0.049182
+circuit_experience    0.049182
+circuit_experience    0.049182
+dtype: float64"
+circuit_avg_position,performance,0.1277759093939555
+circuit_best_position,categorical,0.12004897158262415
+circuit_wins,categorical,0.12580675544407877
+circuit_sakhir,categorical,0.0001353609488751037
+circuit_jeddah,categorical,0.00013536094887510358
+circuit_melbourne,categorical,0.000758012188836007
+circuit_baku,categorical,0.0001095453922495861
+circuit_miami,categorical,0.0001353609488750872
+circuit_monte_carlo,categorical,0.00013536094887510425
+circuit_catalunya,categorical,0.0007580121888361184
+circuit_montreal,categorical,0.00013536094887510886
+circuit_spielberg,categorical,0.00013536094887507132
+circuit_silverstone,categorical,0.00013536094887510466
+circuit_hungaroring,categorical,0.00010954539224952622
+circuit_spa_francorchamps,categorical,0.0001353609488751038
+circuit_zandvoort,categorical,0.0001095453922495107
+circuit_monza,categorical,0.00010954539224952412
+circuit_singapore,categorical,0.0009795475606923778
+circuit_suzuka,categorical,0.0001353609488750581
+circuit_lusail,categorical,0.00010954539224951126
+circuit_austin,categorical,0.00010954539224952123
+circuit_mexico_city,categorical,0.00010954539224951773
+circuit_interlagos,categorical,0.00010954539224951256
+circuit_las_vegas,categorical,0.00010954539224951948
+circuit_yas_marina_circuit,categorical,0.000109545392249524
+circuit_shanghai,categorical,0.00010954539224952504
+circuit_imola,categorical,0.00010954539224952047

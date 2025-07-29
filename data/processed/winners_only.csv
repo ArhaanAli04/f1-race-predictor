@@ -1,0 +1,60 @@
+session_key,driver_number,position,points,grid_position,status,time,gap,full_name,name_acronym,team_name,country_code,season,circuit_short_name,country_name,date_start
+7953,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Sakhir,Bahrain,2023-03-05 15:00:00+00:00
+7779,11,1,25,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Jeddah,Saudi Arabia,2023-03-19 17:00:00+00:00
+7787,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Melbourne,Australia,2023-04-02 05:00:00+00:00
+9070,11,1,25,,Finished,,,Sergio PEREZ,PER,Red Bull Racing,MEX,2023,Baku,Azerbaijan,2023-04-30 11:00:00+00:00
+9078,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Miami,United States,2023-05-07 19:30:00+00:00
+9094,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Monte Carlo,Monaco,2023-05-28 13:00:00+00:00
+9102,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Catalunya,Spain,2023-06-04 13:00:00+00:00
+9110,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Montreal,Canada,2023-06-18 18:00:00+00:00
+9118,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Spielberg,Austria,2023-07-02 13:00:00+00:00
+9126,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Silverstone,Great Britain,2023-07-09 14:00:00+00:00
+9133,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Hungaroring,Hungary,2023-07-23 13:00:00+00:00
+9141,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Spa-Francorchamps,Belgium,2023-07-30 13:00:00+00:00
+9149,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Zandvoort,Netherlands,2023-08-27 13:00:00+00:00
+9157,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Monza,Italy,2023-09-03 13:00:00+00:00
+9165,55,1,25,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2023,Singapore,Singapore,2023-09-17 12:00:00+00:00
+9173,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Suzuka,Japan,2023-09-24 05:00:00+00:00
+9221,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Lusail,Qatar,2023-10-08 17:00:00+00:00
+9213,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Austin,United States,2023-10-22 19:00:00+00:00
+9181,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Mexico City,Mexico,2023-10-29 20:00:00+00:00
+9205,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Interlagos,Brazil,2023-11-05 17:00:00+00:00
+9189,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Las Vegas,United States,2023-11-19 06:00:00+00:00
+9197,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2023,Yas Marina Circuit,United Arab Emirates,2023-11-26 13:00:00+00:00
+9472,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Sakhir,Bahrain,2024-03-02 15:00:00+00:00
+9480,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Jeddah,Saudi Arabia,2024-03-09 17:00:00+00:00
+9488,55,1,25,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Melbourne,Australia,2024-03-24 04:00:00+00:00
+9496,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Suzuka,Japan,2024-04-07 05:00:00+00:00
+9673,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Shanghai,China,2024-04-21 07:00:00+00:00
+9507,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Miami,United States,2024-05-05 20:00:00+00:00
+9515,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Imola,Italy,2024-05-19 13:00:00+00:00
+9523,16,1,25,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Monte Carlo,Monaco,2024-05-26 13:00:00+00:00
+9531,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Montreal,Canada,2024-06-09 18:00:00+00:00
+9539,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Catalunya,Spain,2024-06-23 13:00:00+00:00
+9550,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Spielberg,Austria,2024-06-30 13:00:00+00:00
+9558,44,1,25,,Finished,,,Lewis HAMILTON,HAM,Mercedes,GBR,2024,Silverstone,Great Britain,2024-07-07 14:00:00+00:00
+9566,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Hungaroring,Hungary,2024-07-21 13:00:00+00:00
+9574,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Spa-Francorchamps,Belgium,2024-07-28 13:00:00+00:00
+9582,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Zandvoort,Netherlands,2024-08-25 13:00:00+00:00
+9590,16,1,25,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Monza,Italy,2024-09-01 13:00:00+00:00
+9598,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,AUS,2024,Baku,Azerbaijan,2024-09-15 11:00:00+00:00
+9606,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Singapore,Singapore,2024-09-22 12:00:00+00:00
+9617,16,1,25,,Finished,,,Charles LECLERC,LEC,Ferrari,MON,2024,Austin,United States,2024-10-20 19:00:00+00:00
+9625,55,1,25,,Finished,,,Carlos SAINZ,SAI,Ferrari,ESP,2024,Mexico City,Mexico,2024-10-27 20:00:00+00:00
+9636,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Interlagos,Brazil,2024-11-03 15:30:00+00:00
+9644,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,GBR,2024,Las Vegas,United States,2024-11-24 06:00:00+00:00
+9655,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,NED,2024,Lusail,Qatar,2024-12-01 16:00:00+00:00
+9662,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,GBR,2024,Yas Marina Circuit,United Arab Emirates,2024-12-08 13:00:00+00:00
+9693,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Melbourne,Australia,2025-03-16 04:00:00+00:00
+9998,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Shanghai,China,2025-03-23 07:00:00+00:00
+10006,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Suzuka,Japan,2025-04-06 05:00:00+00:00
+10014,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Sakhir,Bahrain,2025-04-13 15:00:00+00:00
+10022,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Jeddah,Saudi Arabia,2025-04-20 17:00:00+00:00
+10033,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Miami,United States,2025-05-04 20:00:00+00:00
+9987,1,1,25,,Finished,,,Max VERSTAPPEN,VER,Red Bull Racing,,2025,Imola,Italy,2025-05-18 13:00:00+00:00
+9979,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Monte Carlo,Monaco,2025-05-25 13:00:00+00:00
+9971,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Catalunya,Spain,2025-06-01 13:00:00+00:00
+9963,63,1,25,,Finished,,,George RUSSELL,RUS,Mercedes,,2025,Montreal,Canada,2025-06-15 18:00:00+00:00
+9955,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Spielberg,Austria,2025-06-29 13:00:00+00:00
+9947,4,1,25,,Finished,,,Lando NORRIS,NOR,McLaren,,2025,Silverstone,United Kingdom,2025-07-06 14:00:00+00:00
+9939,81,1,25,,Finished,,,Oscar PIASTRI,PIA,McLaren,,2025,Spa-Francorchamps,Belgium,2025-07-27 13:00:00+00:00
